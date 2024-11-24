@@ -6,6 +6,11 @@ npm install cypress --save-dev
 npx cypress open
 
 
+"scripts": {
+  "test": "cypress run"
+}
+
+
 
 
 ## Your Task

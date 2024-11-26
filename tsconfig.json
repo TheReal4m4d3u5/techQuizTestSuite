@@ -36,6 +36,6 @@
       "path": "./client"
     },
     {
-      "path": "./cypress"
+      "path": "c:/Users/avery/OneDrive/Documents/GitHub/bootcamp/bootcamp/techQuizTestSuite/cypress/support"
     }]
 }

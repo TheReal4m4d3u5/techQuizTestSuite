@@ -5,8 +5,7 @@
 
 ## Description 
 
-This project is to create a application where you can search for candidates on gitup and save them to a potential candidates list on a sperate page. 
-
+This is a cypress component and e2s testing suite
 
 
 
